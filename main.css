@@ -14,12 +14,25 @@
 
 }
 
+/* EMILY SECTION */
+#emily {
+    background-color: darkslategrey;
+    padding: 12px;
+    border-radius: 6px;
+}
 #emily h1 {
     color: red;
     text-transform: uppercase;
     font-family: sans-serif;
 }
+#emily p {
+    color: white;
+    font-family: "Bodoni MT";
+}
 #emily img {
     max-width: 100px;
     max-height: 100px;
+}
+#emily div {
+    display: flex;
 }
