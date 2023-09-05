@@ -10,6 +10,13 @@
     border-radius: 10px;
 }
 
+.kontakt {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
 #emil {
 
 }
